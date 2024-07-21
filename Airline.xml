@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="airlines.Project2_Airline.testCases.TC01"/>
       <class name="airlines.Project2_Airline.testCases.TC02"/>
+      <class name="airlines.Project2_Airline.testCases.TC01"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
