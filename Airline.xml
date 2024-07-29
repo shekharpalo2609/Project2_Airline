@@ -5,6 +5,8 @@
     <classes>
       <class name="airlines.Project2_Airline.testCases.TC01"/>
       <class name="airlines.Project2_Airline.testCases.TC02"/>
+      <class name="airlines.Project2_Airline.testCases.TC03"/>
+      <class name="airlines.Project2_Airline.testCases.TC04"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

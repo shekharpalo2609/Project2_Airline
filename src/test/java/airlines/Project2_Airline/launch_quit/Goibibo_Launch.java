@@ -4,9 +4,9 @@ import java.time.Duration;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import airlines.Project2_Airline.listener.GoibiboListener;
+import airlines.Project2_Airline.listener.AirlineListener;
 
-public class Goibibo_Launch extends GoibiboListener{
+public class Goibibo_Launch extends AirlineListener{
 
 	public void launchGoibibo() {
 		driver = new ChromeDriver();

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="airlines.Project2_Airline.testCases.TC01">
+      <class name="airlines.Project2_Airline.testCases.TC07">
         <methods>
-          <include name="registrationGoibibo"/>
+          <include name="multiCityFlight"/>
         </methods>
-      </class> <!-- airlines.Project2_Airline.testCases.TC01 -->
+      </class> <!-- airlines.Project2_Airline.testCases.TC07 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
